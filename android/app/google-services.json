@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "604833102740",
+    "project_id": "mygreenpurse-189004"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604833102740:android:8f77fe94e98be959",
+        "android_client_info": {
+          "package_name": "com.mygreenwallet2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604833102740-p6mbte0oms6ubig46pieq5ohngqcf2vh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygreenwallet2",
+            "certificate_hash": "43f2b4e38e5954b7eeb77d9f199162b7afcfdfcb"
+          }
+        },
+        {
+          "client_id": "604833102740-1e9lvj99uitpvn0edi0l0m796am0k3bt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "604833102740-dc43op8482of507eoopqih96f9c0s0h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygreenwallet2",
+            "certificate_hash": "10555e1743657efae55d48f9e71c0ebd5d03111f"
+          }
+        },
+        {
+          "client_id": "604833102740-3i4aacm8blr0a3pcsnde2rph46jpcp7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygreenwallet2",
+            "certificate_hash": "85659310db9a3ec6a70a120ea9e479b5ae4a3674"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6LjB7a5p5FFGGqqHTW9ezjYqQcViHbSI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
